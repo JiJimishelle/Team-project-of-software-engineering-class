@@ -45,6 +45,7 @@ Output: 1
 Halstead calculation result
 ----------------------------------
 Halstead Length (N): 8
+
 Halstead Volume (V): 21.15685424949238
 
 
