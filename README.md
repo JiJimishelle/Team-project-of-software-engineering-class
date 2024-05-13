@@ -19,11 +19,30 @@ The map() function is then used to convert each substring into an integer using 
 The resulting list of integers is assigned to the variable nums.
 
 
-
 Function Invocation and Output:
 --------------------------------------------
 This part of the code simply prints the input list nums entered by the user.
 It then calls the singleNumber function with the input list nums as an argument and prints the output, which is the single number that appears only once in the input list.
+
+
+Example
+---------------------------------
+Input: nums = [2,2,1]
+Output: 1
+
+Input: nums = [4,1,2,1,2]
+Output: 4
+
+Input: nums = [1]
+Output: 1
+
+
+
+
+Halstead calculation result
+----------------------------------
+Halstead Length (N): 8
+Halstead Volume (V): 21.15685424949238
 
 
 
