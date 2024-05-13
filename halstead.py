@@ -16,6 +16,13 @@ unique_operators = set(operators)
 unique_operands = set(operands)
 n = len(unique_operators) + len(unique_operands)  # Vocabulary (n)
 
+
+
+
+# result
+# Halstead Length (N): 8
+# Halstead Volume (V): 21.15685424949238
+
 # Computing Halstead Volume
 V = N * (log2(n)) if n > 0 else 0
 
